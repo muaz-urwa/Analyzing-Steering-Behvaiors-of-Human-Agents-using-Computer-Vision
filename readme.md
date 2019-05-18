@@ -1,7 +1,7 @@
 
-# Experiment- Steering Behaviors Study using Computer Vision
+# Human Steering Behaviors Study using Computer Vision
 
-We wanted to ibserve if the steering behaviors described in [Paper](https://www.red3d.com/cwr/papers/1999/gdc99steer.pdf) are observed in urban settings. We collected video data from a few urban spaces around metro tech to observe the pedestrian mobility tracks in those spaces. We recorded short videos of public urban spaces which have a continuous stream of human traffic.
+We wanted to observe if the steering behaviors described in [Paper](https://www.red3d.com/cwr/papers/1999/gdc99steer.pdf) are observed in urban settings. We collected video data from a few urban spaces around metro tech to observe the pedestrian mobility tracks in those spaces. We recorded short videos of public urban spaces which have a continuous stream of human traffic.
 <img src="data.jpg">
 
 
@@ -45,4 +45,9 @@ We calculate the displacement, velocity and acceleration vectors of one agent wi
 
 ## Limitation of this experiment
 Statistically speaking, if we observe large people pair paths we will observe all these kinds of characteristic trajectories but they would not essentially be motive driven steering behaviors. They would be very likely to occur by random chance. 
+
+
+## Team
+Urwa Muaz, Rachel Sim, Kloe Ng
+[full report](https://github.com/muaz-urwa/Analyzing-Steering-Behvaiors-of-Human-Agents-using-Computer-Vision/blob/master/SteeringBehaviours.pdf)
 
